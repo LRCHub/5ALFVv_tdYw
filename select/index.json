@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "base_track": "THE REVO",
+  "base_artist": "ポルノグラフィティ",
+  "createdAt": "2026-03-31T12:02:54.357422Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "THE REVO",
+      "artist": "ポルノグラフィティ",
+      "has_synced": true,
+      "path": "select/01_THE_REVO_ポルノグラフィティ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "THE REVO",
+      "artist": "Porno Graffitti",
+      "has_synced": true,
+      "path": "select/02_THE_REVO_Porno_Graffitti.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "THE REVO",
+      "artist": "PornoGraffitti",
+      "has_synced": true,
+      "path": "select/03_THE_REVO_PornoGraffitti.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "THE REVO",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_01_THE_REVO_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "THE REVO",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/localdb_01_THE_REVO_ポルノグラフィティ.txt",
+      "repo_name": "mqcnytoU4LM"
+    }
+  ]
+}
